@@ -3,7 +3,7 @@
 #Screenshots of the app
 
 - Screen 1 
-![Screenshots] (project 0.0 blocks.jpg)
+![Screenshots] (project 0.0.blocks.jpg)
 
 - Screen 2
-![Screenshots] (project 0.0 designer.jpg)
+![Screenshots] (project 0.0.designer.jpg)
